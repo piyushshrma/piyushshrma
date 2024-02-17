@@ -31,7 +31,7 @@ Hi there! 👋<br>I'm Piyush Sharma, A student at Shri Ramdeobaba College of Eng
  <a href ="https://www.instagram.com/peeyush19sharma">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
  </a>
-  <a href ="discordapp.com/users/divyansh7634">
+  <a href ="discordapp.com/users/piyushsharma41">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href = "sharmapa_1@rknec.edu">
@@ -51,4 +51,4 @@ Hi there! 👋<br>I'm Piyush Sharma, A student at Shri Ramdeobaba College of Eng
 </p>
 ###
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=divyansh-2005&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=piyushshrma&theme=discord&no-frame=false&no-bg=false&margin-w=4)
