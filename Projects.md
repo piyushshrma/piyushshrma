@@ -1,4 +1,4 @@
-My Projects demonstrate a broad range of skills in web development, covering HTML, CSS, JavaScript, React.js and MERN stack. Here’s a summary of my work, categorized by technology:
+My Projects demonstrate a broad range of skills in web development, covering HTML, CSS, JavaScript. Here’s a summary of my work, categorized by technology:
 
 ### HTML Projects
 1. **Rock Paper Scissor Game**
