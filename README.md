@@ -55,10 +55,13 @@ Hi! I'm **Piyush Sharma**, a passionate **B.Tech student in Computer Science Eng
 
 ---
 
-## 🐍 Contribution Snake Game
-<div align="center">
-  <img src="https://raw.githubusercontent.com/piyushshrma/piyushshrma/output/snake.svg" alt="Snake animation" />
-</div>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/piyushshrma/piyushshrma/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ## 🏆 GitHub Trophies
