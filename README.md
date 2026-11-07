@@ -167,6 +167,7 @@ My experience spans Java development, frontend engineering, automation testing, 
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -177,7 +178,20 @@ My experience spans Java development, frontend engineering, automation testing, 
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/piyushshrma/piyushshrma/output/snake.svg"
+     alt="GitHub Contribution Snake Animation"
+     width="100%" />
+
+</div>
+
+---
+
 ## 💡 Let's Connect!
+
 
 I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new opportunities.
 
