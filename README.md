@@ -1,78 +1,196 @@
-# 👨‍💻 About Me
-Hi! I'm **Piyush Sharma**, a passionate **B.Tech student in Computer Science Engineering (AI & ML)** at **Shri Ramdeobaba College of Engineering and Management**. I'm dedicated to learning new technologies and improving my skills in the fields of **AI, Machine Learning**, and **Web Development**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peeyush19sharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peeyush19sharma)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nomaf_sharma)
+<!-- 
+  Hi! I'm Piyush Sharma
+  GitHub: https://github.com/piyushshrma
+-->
 
----
+<div align="center">
 
-## 💻 Tech Stack
+# Hi there, I'm Piyush Sharma 👋
 
-### **Languages & Frameworks**:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### Software Developer | Java | Automation Testing | Full-Stack Development
 
-### **Web & Mobile Development**:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<p>
+  <a href="https://linkedin.com/in/peeyush19sharma">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:piyush.sharma.work3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/piyushshrma">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-### **Databases & Hosting**:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=piyushshrma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
-### **Data Science & Machine Learning**:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### **Design Tools**:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
 
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushshrma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+I'm **Piyush Sharma**, a Computer Science and Engineering graduate specializing in Artificial Intelligence and Machine Learning from **Shri Ramdeobaba College of Engineering and Management, Nagpur**.
 
-![Piyush's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushshrma&theme=dark&hide_border=false)
+I enjoy building software, solving problems, and exploring technologies that make development more efficient.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushshrma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My experience spans Java development, frontend engineering, automation testing, and REST API testing. I've worked with international teams, contributed to live applications, and built automation frameworks for real-world web workflows.
 
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=piyushshrma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ✍️ Random Dev Quote
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 💻 Interested in Software Development, Java and Test Automation.
+- 🧪 Experienced in Selenium, TestNG, Maven and API Testing.
+- 🌐 Building applications with React, Next.js and JavaScript.
+- ☁️ AWS Certified Cloud Practitioner.
+- 🏆 Hackathon finalist and second-prize winner.
+- 🌱 Always learning, building and experimenting with new technologies.
 
 ---
 
-## 🔝 Top Contributed Repo
+## 🛠️ Technical Skills
 
-![Top Repo Contributions](https://github-contributor-stats.vercel.app/api?username=piyushshrma&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express" />
+</p>
+
+### Automation & Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws" />
+</p>
+
+### Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,jenkins,vscode,figma" />
+</p>
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=piyushshrma&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💼 Professional Experience
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Programmer Analyst Trainee | Cognizant Technology Solutions**
+
+`April 2026 – August 2026` · Chennai, India
+
+- Built automation frameworks for eBay and Yatra.com.
+- Automated 10+ test scenarios covering product search, filtering, hotels and cruise workflows.
+- Used Java, Selenium WebDriver, TestNG, Page Object Model and PageFactory.
+- Worked with Maven, Cucumber, JUnit, Postman, SQL and Git.
+- Completed technical training in Java, automation testing, API testing, Jenkins and Agile methodologies.
+
+**Junior Developer | FarAway Yachting Co. Ltd.**
+
+`January 2026 – April 2026` · Remote, Phuket, Thailand
+
+- Developed and maintained reusable frontend components using React and Next.js.
+- Improved navigation and responsive UI behavior.
+- Fixed frontend defects and collaborated with an international remote team.
+- Used Git and GitHub for version control and collaboration.
+
+**UI/UX and Frontend Intern | YashOne Consultancy Services**
+
+`August 2024 – December 2024` · Nagpur, Maharashtra
+
+- Delivered web solutions across 3+ client projects.
+- Contributed to frontend development and user experience enhancements.
+- Contributed to a reported 25% improvement in customer engagement.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Yatra.com Automation Framework
+
+**Java | Selenium | TestNG | Maven | Cucumber | SQL | Postman**
+
+- Automated hotel and cruise search workflows.
+- Implemented Page Object Model and PageFactory.
+- Used XPath, explicit waits and assertions.
+- Integrated Cucumber, JUnit, Maven and API testing.
+- Performed SQL validation and end-to-end testing.
+
+### 2. TravelHunt – Gamified Tourism Platform
+
+**React Native | Node.js | Express.js | MongoDB | Expo**
+
+- Built a gamified tourism platform during a 36-hour hackathon.
+- Implemented attraction discovery, challenges, leaderboards and location-based features.
+- Achieved finalist position at Manipal Hackathon 2024 among 250+ teams.
+
+### 3. IQCHAIN – Web3 Quiz Platform
+
+**Next.js | Solidity | Ethers.js | Tailwind CSS | Diamante**
+
+- Developed a decentralized quiz platform using blockchain technology.
+- Implemented Solidity smart contracts and integrated them using Ethers.js.
+- Won **2nd Prize at Hack The Space 2.0**.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **2nd Prize Winner** – Hack The Space 2.0 (IQCHAIN).
+- 🏅 **Top 30 / Finalist** – Manipal Hackathon 2024 (TravelHunt).
+- ☁️ **AWS Certified Cloud Practitioner** – Amazon Web Services.
+- 🎓 **B.Tech CSE (AI/ML)** – CGPA: 9.07/10.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyushshrma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushshrma&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushshrma&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushshrma&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 💡 Let's Connect!
+
+I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new opportunities.
+
+<p align="center">
+  <a href="mailto:piyush.sharma.work3@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/peeyush19sharma">LinkedIn</a> •
+  <a href="https://github.com/piyushshrma">GitHub</a> •
+  <a href="https://leetcode.com/peeyush19sharma">LeetCode</a> •
+  <a href="https://youtube.com/@nomaf_sharma">YouTube</a>
+</p>
+
+<div align="center">
+
+### "Build. Learn. Improve. Repeat. 🚀"
+
+</div>
